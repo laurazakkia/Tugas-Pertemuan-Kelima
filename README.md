@@ -3,6 +3,6 @@
 ---
 
 ## Daftar Isi : 
-- [📘 Abstract Class]
+- [Java Swing]
 - 
 ---
